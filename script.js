@@ -75,7 +75,7 @@
 //     console.log(n[i]);
 // }
 // }
-let n = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+// let n = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 // print(n)
 
 // print2=(a)=>{
@@ -87,11 +87,12 @@ let n = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 // }
 // print2(n)
 
-print3 = (a) => {
-    i = 0;
-    do {
-        console.log(n[i]);
-        i++;
-    } while (i < a.length);
-}
-print3(n);
+// print3 = (a) => {
+//     i = 0;
+//     do {
+//         console.log(n[i]);
+//         i++;
+//     } while (i < a.length);
+// }
+// print3(n);
+

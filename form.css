@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.container{
+    padding: 20px;
+    border: solid;
+}
+
+.username{
+    width: 300px;
+    height: 50px;
+    margin: 10px;
+    border-radius: 8px;
+
+}
+
+.password{
+    width: 300px;
+    height: 50px;
+    margin: 10px;
+    border-radius: 8px;
+}
+
+.btn{
+    background: rgb(91, 168, 223);
+    width: 100px;
+    height: 30px;
+    font-size: medium;
+    font-weight: bolder;
+    border: none;
+    border-radius: 8px;
+
+}
